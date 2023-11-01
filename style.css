@@ -504,6 +504,7 @@ footer li {
 		width: 100%;
 	}
 	.activitesColmumn {
+		height: 400px;
 		width: 100%;
 		margin-bottom: 10px;
 	}
@@ -545,9 +546,9 @@ footer li {
 			display: flex;
 			align-items: center;
 		}
-		img.activiteImg {
+		/*img.activiteImg {
 			height: 130px;
-		}
+		}*/
 		.side {
 
 			border-bottom: 2px solid #c1c1c1;
